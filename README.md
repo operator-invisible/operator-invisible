@@ -52,10 +52,12 @@ status     : Continuous Research
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali" />
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,cpp,js,html,git,github,docker,vscode,flask,tensorflow,pytorch," />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,cpp,js,html,github,vscode" />
 </p>
 
 <p align="center">
+  <img height="50" src="https://img.shields.io/badge/-Parrot%20OS-1a1a2e?style=for-the
+  badge&logo=linux&logoColor=44FF88" />
   <img height="50" src="https://img.shields.io/badge/-Nmap-1a1a2e?style=for-the-badge&logo=nmap&logoColor=00BFFF" />
   <img height="50" src="https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
   <img height="50" src="https://img.shields.io/badge/-OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
