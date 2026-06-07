@@ -54,7 +54,8 @@ status     : Continuous Research
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,cpp,js,html,git,github,docker,vscode,flask,tensorflow,pytorch" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,burpsuite,nmap,owasp" />
+  <img src="https://skillicons.dev/icons?i=kali" />
+  <img src="https://skillicons.dev/icons?i=nmap" />
 </p>
 
 --- 
