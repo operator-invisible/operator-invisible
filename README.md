@@ -53,15 +53,8 @@ status     : Continuous Research
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,cpp,js,html,git,github,docker,vscode,flask,tensorflow,pytorch" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F0FF"/>
+  <img src="https://skillicons.dev/icons?i=kali,burpsuite,nmap,owasp" />
 </p>
 
 --- 
