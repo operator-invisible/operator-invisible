@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHIVAM&fontSize=80&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20AI%20Security%20Builder&descAlignY=60&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=⚡SHIVAM⚡&fontSize=80&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20AI%20Security%20Builder&descAlignY=60&descSize=18&descColor=ffffff" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&width=800&lines=Adversarial+Security+%7C+Offensive+%2B+Defensive;Trust+Is+The+First+Vulnerability.;I+Learn+How+Systems+Collapse.+So+I+Build+What+Doesn't.;Ethical+Hacker+%7C+Secure+AI+Builder" alt="Typing SVG" />
@@ -59,12 +59,12 @@ status     : Continuous Research
 </p>
 
 <p align="center">
-  <img height="50" src="https://img.shields.io/badge/-Parrot%20OS-1a1a2e?style=for-the
+  <img height="125" src="https://img.shields.io/badge/-Parrot%20OS-1a1a2e?style=for-the
   badge&logo=linux&logoColor=44FF88" />
-  <img height="75" src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
-  <img height="85" src="https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
-  <img height="95" src="https://img.shields.io/badge/-OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
-  <img height="105" src="https://img.shields.io/badge/-Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF4444" />
+  <img height="125" src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
+  <img height="125" src="https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
+  <img height="125" src="https://img.shields.io/badge/-OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
+  <img height="125" src="https://img.shields.io/badge/-Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF4444" />
   <img height="125" src="https://img.shields.io/badge/-Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=1E90FF" />
 </p>
 
