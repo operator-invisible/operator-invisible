@@ -96,19 +96,28 @@ status     : Continuous Research
 
 ---
 
-## `> cat philosophy.txt`
+# 🏴‍☠️ Shivam
 
-```
-Secure systems are not built by developers.
-They are built by those who know how to break them.
+```bash
+┌──(root㉿shivam)-[~]
+└─# whoami
+Shivam | Ethical Hacker | AI Builder
 
-I learn attacks.
-I engineer defense.
-I build what survives both.
+┌──(root㉿shivam)-[~]
+└─# ls
+CyberSecurity  AI  RedTeam BlueTeam 
 
-I am not interested in breaking things for spectacle —
-only in understanding them completely.
-Because complete understanding is the only real form of control.
+┌──(root㉿shivam)-[~]
+└─# skills
+Pentesting | Web Security | Automation | OSINT | Soc
+
+┌──(root㉿shivam)-[~]
+└─# projects
+SENTINEL-X  NEXUS-AI CyberAssassins
+
+┌──(root㉿shivam)-[~]
+└─# STATUS
+Building offensive & defensive security tools.
 ```
 
 ---
