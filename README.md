@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam&fontSize=80&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20AI%20Security%20Builder&descAlignY=60&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHIVAM&fontSize=80&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20AI%20Security%20Builder&descAlignY=60&descSize=18&descColor=ffffff" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&width=800&lines=Adversarial+Security+%7C+Offensive+%2B+Defensive;Trust+Is+The+First+Vulnerability.;I+Learn+How+Systems+Collapse.+So+I+Build+What+Doesn't.;Ethical+Hacker+%7C+Secure+AI+Builder" alt="Typing SVG" />
@@ -52,6 +52,9 @@ status     : Continuous Research
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,python,cpp,js,html,github,vscode" />
 </p>
 
