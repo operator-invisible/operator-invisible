@@ -51,11 +51,16 @@ status     : Continuous Research
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,cpp,js,html,git,github,docker,vscode,flask,tensorflow,pytorch" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=kali" />
-  <img src="https://skillicons.dev/icons?i=nmap" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,cpp,js,html,git,github,docker,vscode,flask,tensorflow,pytorch," />
+</p>
+
+<p align="center">
+  <img height="50" src="https://img.shields.io/badge/-Nmap-1a1a2e?style=for-the-badge&logo=nmap&logoColor=00BFFF" />
+  <img height="50" src="https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
+  <img height="50" src="https://img.shields.io/badge/-OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
+  <img height="50" src="https://img.shields.io/badge/-Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF4444" />
+  <img height="50" src="https://img.shields.io/badge/-Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=1E90FF" />
 </p>
 
 --- 
