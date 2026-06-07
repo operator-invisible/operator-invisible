@@ -61,7 +61,7 @@ status     : Continuous Research
 <p align="center">
   <img height="50" src="https://img.shields.io/badge/-Parrot%20OS-1a1a2e?style=for-the
   badge&logo=linux&logoColor=44FF88" />
-  <img height="50" src="https://img.shields.io/badge/-Nmap-1a1a2e?style=for-the-badge&logo=nmap&logoColor=00BFFF" />
+  <img height="50" src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
   <img height="50" src="https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
   <img height="50" src="https://img.shields.io/badge/-OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
   <img height="50" src="https://img.shields.io/badge/-Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF4444" />
