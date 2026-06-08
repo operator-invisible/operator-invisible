@@ -85,15 +85,14 @@ status     : Continuous Research
 
 ## `> github --stats`
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivam-pro-hacker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-pro-hacker&theme=radical&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam-pro-hacker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-pro-hacker&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-pro-hacker&theme=radical" />
+</p>
 ---
 
 # 🏴‍☠️ Shivam
