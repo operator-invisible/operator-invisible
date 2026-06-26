@@ -68,6 +68,9 @@ status     : Continuous Research
   <img height="125" src="https://img.shields.io/badge/-Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=1E90FF" />
 </p>
 
+<img src="https://media.tenor.com/6D9mK2Yv6J0AAAAi/hacker.gif"
+     alt="Hacker"
+     width="180">
 --- 
 
 
