@@ -52,17 +52,18 @@ status     : Continuous Research
 
 <table>
 <tr>
+
 <td width="70%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kali" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali" width="80" alt="Kali Linux" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,python,cpp,js,html,github,vscode" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Parrot%20OS-1a1a2e?style=for-the-badge&logo=linux&logoColor=44FF88" />
   <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
@@ -75,12 +76,12 @@ status     : Continuous Research
 
 <td width="30%" align="center">
 
-<img src="https://i.pinimg.com/originals/69/be/7e/69be7e1f5343b7ebf9632ec5e554f1f6.gif" alt="Luffy" width="180">
+<img src="assets/anime_video.mp4" alt="Anime" width="180">
 
 </td>
+
 </tr>
 </table>
-
 --- 
 
 
