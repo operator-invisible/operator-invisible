@@ -56,7 +56,7 @@ status     : Continuous Research
 <td width="70%" valign="top">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali" width="80" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=kali" width="50" alt="Kali Linux" />
 </p>
 
 <p align="center">
@@ -76,9 +76,9 @@ status     : Continuous Research
 
 <td width="30%" align="center">
 
-<video autoplay loop muted width="180">
-  <source src="assets/anime_video.mp4" type="video/mp4">
-</video>
+<img src="assets/anime_video.gif"
+     alt="Anime"
+     width="180">
 
 </td>
 
