@@ -76,7 +76,7 @@ status     : Continuous Research
 
 <td width="30%" align="center">
 
-<img src="assets/hacker_video2.gif"
+<img src="assets/hacker_video.gif"
      alt="Anime"
      width="200">
 
