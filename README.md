@@ -75,7 +75,7 @@ status     : Continuous Research
 
 <td width="30%" align="center">
 
-<img src="https://pin.it/5buWa68zn" width="180">
+<img src="https://i.pinimg.com/originals/69/be/7e/69be7e1f5343b7ebf9632ec5e554f1f6.gif" alt="Luffy" width="180">
 
 </td>
 </tr>
