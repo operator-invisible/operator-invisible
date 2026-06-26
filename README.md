@@ -50,27 +50,37 @@ status     : Continuous Research
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<p>
   <img src="https://skillicons.dev/icons?i=kali" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=linux,windows,python,cpp,js,html,github,vscode" />
 </p>
 
-<p align="center">
-  <img height="125" src="https://img.shields.io/badge/-Parrot%20OS-1a1a2e?style=for-the
-  badge&logo=linux&logoColor=44FF88" />
-  <img height="125" src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
-  <img height="125" src="https://img.shields.io/badge/-Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
-  <img height="125" src="https://img.shields.io/badge/-OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
-  <img height="125" src="https://img.shields.io/badge/-Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF4444" />
-  <img height="125" src="https://img.shields.io/badge/-Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=1E90FF" />
+<p>
+  <img src="https://img.shields.io/badge/Parrot%20OS-1a1a2e?style=for-the-badge&logo=linux&logoColor=44FF88" />
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6600" />
+  <img src="https://img.shields.io/badge/OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=00CC44" />
+  <img src="https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF4444" />
+  <img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=1E90FF" />
 </p>
 
-<img src="https://media.tenor.com/6D9mK2Yv6J0AAAAi/hacker.gif"
-     alt="Hacker"
-     width="180">
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://media.tenor.com/6D9mK2Yv6J0AAAAi/hacker.gif" width="180">
+
+</td>
+</tr>
+</table>
+
 --- 
 
 
