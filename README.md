@@ -75,7 +75,7 @@ status     : Continuous Research
 
 <td width="30%" align="center">
 
-<img src="https://media.tenor.com/6D9mK2Yv6J0AAAAi/hacker.gif" width="180">
+<img src="https://pin.it/5buWa68zn" width="180">
 
 </td>
 </tr>
