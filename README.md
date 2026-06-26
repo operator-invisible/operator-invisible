@@ -76,7 +76,9 @@ status     : Continuous Research
 
 <td width="30%" align="center">
 
-<img src="assets/anime_video.mp4" alt="Anime" width="180">
+<video autoplay loop muted width="180">
+  <source src="assets/anime_video.mp4" type="video/mp4">
+</video>
 
 </td>
 
