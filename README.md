@@ -246,3 +246,72 @@ Building offensive & defensive security tools.
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:1E90FF&height=120&section=footer"/>
+
+<!-- ===================== MATRIX HEADER ===================== -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=250&section=header&text=SHIVAM%20ATLAS&fontColor=00FF41&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Engineer;Ethical+Hacker;Python+Developer;Linux+Enthusiast;Always+Learning"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+# <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> About Me
+
+```python
+class Shivam():
+
+    def __init__(self):
+        self.role = "AI Engineer & Cybersecurity Enthusiast"
+        self.language = ["Python", "C++", "JavaScript"]
+        self.os = ["Linux", "Windows", "Kali Linux"]
+        self.learning = ["AI", "Machine Learning", "Ethical Hacking"]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub!")
+```
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- ===================== WORKING GITHUB GIF COLLECTION ===================== -->
+
+<!-- About Me -->
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">
+
+<!-- Coding Girl -->
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350">
+
+<!-- Night Coding -->
+<img src="https://github.com/AVS1508/AVS1508/blob/master/assets/Night-Coding.gif?raw=true" width="350">
+
+<!-- Developer Working -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="350">
+
+<!-- Coding Animation -->
+<img src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif?raw=true" width="350">
+
+<!-- Matrix Style -->
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350">
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=200&section=header&text=SHIVAM%20ATLAS&fontColor=00FF41&fontSize=50&animation=fadeIn"/>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Engineer;Ethical+Hacker;Python+Developer;Linux+Enthusiast"/>
+
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41"/>
+
