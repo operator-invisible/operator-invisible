@@ -156,3 +156,93 @@ Building offensive & defensive security tools.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Engineer;Ethical+Hacker;Python+Developer;Always+Learning+New+Things"/>
+</p>
+
+<!-- About Me -->
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">
+  About Me
+</h2>
+
+- 🎓 B.Sc. Computer Science Student
+- 🤖 Aspiring AI Engineer
+- 🔐 Passionate about Cybersecurity & Ethical Hacking
+- 🐍 Python Developer
+- 🌱 Currently learning AI, Linux, and Penetration Testing
+- 🚀 Building real-world AI & Cybersecurity Projects
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- GitHub Trophies -->
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- Contribution Snake -->
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- Activity Graph -->
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:1E90FF&height=120&section=footer"/>
