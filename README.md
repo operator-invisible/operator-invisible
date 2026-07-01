@@ -207,7 +207,7 @@ Building offensive & defensive security tools.
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=operator-invisible&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 <!-- Divider -->
