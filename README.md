@@ -315,3 +315,14 @@ class Shivam():
 <!-- Visitor Badge -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41"/>
 
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="ProShivam GitHub Profile" src="./dark.svg" width="100%">
+  </picture>
+</p>
+
+
