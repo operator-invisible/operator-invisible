@@ -1,3 +1,14 @@
+<!-- ✨ Animated Banner ✨ -->
+<img src="./nikhil-banner.svg?v=14" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
+
+</div>
+
+<br/>
+
+<table align="center" border="0" width="100%">
+<tr>
+<td width="36%" align="center" valign="top">
+
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <img src="./Shivam_ID.svg?v=6" alt="SHIVAM ID badge" width="330"/>
 
