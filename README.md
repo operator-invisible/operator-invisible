@@ -1,3 +1,14 @@
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./Shivam_ID.svg?v=6" alt="SHIVAM ID badge" width="330"/>
+
+<br/><br/>
+
+> 🩵 *"Driven by passion, crafting full-stack solutions with clean code & modern architecture."*
+
+</td>
+<td width="64%" valign="top">
+<br><br>
+  
 <div align="center">
 
 <!-- HEADER BANNER -->
