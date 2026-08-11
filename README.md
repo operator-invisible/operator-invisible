@@ -1,5 +1,5 @@
 <!-- ✨ Animated Banner ✨ -->
-<img src="./nikhil-banner.svg?v=14" alt="Nikhil Bhadauriya — Full Stack Developer" width="100%"/>
+<img src="./Shivam_Banner.svg?v=14" alt="SHIVAM - Ethical Hacker" width="100%"/>
 
 </div>
 
