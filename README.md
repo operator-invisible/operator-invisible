@@ -32,7 +32,7 @@
 
 <!-- BADGES ROW -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Shivam-pro-hacker&label=Profile+Views&color=00F0FF&style=flat-square)
-<script src="https://tryhackme.com/badge/t/034b2222de4642e630668fa4cc3ad8f8d1d008bc41cfaed3bd2066b0be562a54d0f4afbcb854f057033132d2ba53e3c3?theme=dark"></script>
+<img src="https://cdn-images.tryhackme.com/public-profile/ProShivam/badge-dark-590f8726b85e.png" alt="ProShivam's TryHackMe badge." width="400">
 [![GitHub followers](https://img.shields.io/github/followers/Shivam-pro-hacker?label=Followers&style=flat-square&color=00F0FF&labelColor=0D1117)](https://github.com/Shivam-pro-hacker)
 ![Focus](https://img.shields.io/badge/Focus-Adversarial%20Security-00F0FF?style=flat-square&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Building%20%26%20Breaking-00F0FF?style=flat-square&labelColor=0D1117)
